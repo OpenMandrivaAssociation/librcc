@@ -14,6 +14,8 @@ License:	LGPLv2.1+
 BuildRequires:	aspell-devel
 BuildRequires:	librcd-devel
 BuildRequires:	pkgconfig(libxml-2.0)
+BuildRequires:	pkgconfig(zlib)
+BuildRequires:	pkgconfig(liblzma)
 # In fact, is not used now because it's not properly detected
 BuildRequires:	pkgconfig(libguess)
 
