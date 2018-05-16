@@ -6,7 +6,7 @@
 Summary:	Russian Charset Conversion Library
 Name:		librcc
 Version:	0.2.12
-Release:	3.1
+Release:	4
 Url:		http://rusxmms.sourceforge.net/
 Source0:	http://darksoft.org/files/rusxmms/%{name}-%{version}.tar.bz2
 Group:		System/Libraries
