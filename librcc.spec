@@ -11,6 +11,11 @@ Url:		https://rusxmms.sourceforge.net/
 Source0:	http://darksoft.org/files/rusxmms/%{name}-%{version}.tar.bz2
 Group:		System/Libraries
 License:	LGPLv2.1+
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	aspell-devel
 BuildRequires:	librcd-devel
 BuildRequires:	pkgconfig(libxml-2.0)
